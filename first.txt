@@ -1,5 +1,3 @@
 First file
 
-Some changes have been made!
-
-More changes
+some code was deleted
